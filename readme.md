@@ -23,3 +23,9 @@ The material found here is licensed in the public domain.
 ## Contributions
 
 Feel free to submit a pull request to fix anything or add bonus more.
+
+## Creating classes
+
+There is a helper script for making unit 2 classes so the folder structure is always similar.
+
+`./create_class.sh "Some Name For The folder"`
