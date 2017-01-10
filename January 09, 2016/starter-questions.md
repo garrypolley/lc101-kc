@@ -30,5 +30,5 @@
   * Daily feedback Google Form?
 * Encurage them to ask questions during the lecture and before
 * Are they excited for unit 2 and 3?
-* What are there goal swith unit 2 and 3? Same as when they started?
+* What are their goals for unit 2 and 3? Same as when they started?
 * Do they think the bonus material on some Wednesdays and after class will be useful?
