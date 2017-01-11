@@ -5,13 +5,13 @@
 1. What new elements have you learned about?  (e.g. ul, ol)
 2. What's the difference between `ul` and `ol`?
 3. Where in the HTML document does the `head` go?
-4. What's the difference between an `inline` element and a `block` element? -- We will continue asking this because it becomes more and more relevant the more we do sytling.
+4. What's the difference between an `inline` element and a `block` element? -- We will continue asking this because it becomes more and more relevant the more we do styling.
 5. How many `h` tags are there?
 
 ## CSS
 
 2. What is CSS?
-1. What is the "precedence" of CSS selectors? The specificty level?
+1. What is the "precedence" of CSS selectors? The specificity level?
 3. What are some common CSS attributes?
 4. What does `font-family` do?
 5. What does `color` do?
