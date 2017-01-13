@@ -19,23 +19,23 @@ h1 {
 }
 
 h2 {
-    font-size: 2rem;
-}
-
-h3 {
     font-size: 2.25rem;
 }
 
-h4 {
+h3 {
     font-size: 2rem;
 }
 
-h5 {
+h4 {
     font-size: 1.75rem;
 }
 
-h6 {
+h5 {
     font-size: 1.5rem;
+}
+
+h6 {
+    font-size: 1.3rem;
 }
 
 p {
@@ -82,7 +82,7 @@ small {
 }
 
 .contact-link:hover {
-    border: 2px dashed #6FaFFF;
+    border-style: dashed;
     color: black;
     background-color: #efefef;
     transition: background-color 2s, color 2s;
