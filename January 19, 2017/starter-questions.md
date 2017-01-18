@@ -62,3 +62,4 @@
 
 * Do the students want the feedback form Garry has failed to make?
 * On a scale of 1 - 10 (10 being no idea, 1 being I understand fully what we have covered so far) how do they feel about git?
+* App engine installed?
