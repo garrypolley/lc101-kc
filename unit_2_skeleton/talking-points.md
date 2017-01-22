@@ -2,4 +2,6 @@
 
 ## Start of Class
 
-## Before we "break out"
+## Lecture
+
+## End of Class
