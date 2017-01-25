@@ -1,21 +1,21 @@
 # Talking points
 
-## Beofre Class
+## Before Class
 
 * Plugin back TV
 * Start Youtube live
 
 ## Start of Class
 
-* Mention assignment due today -- web caeser
+* Mention assignment due today -- web caesar
 * Mention User Signup due next Thursday -- Be sure to validate on client and server (you can cheat a little and view the source in the example)
-* My job is to make you succeed in this class. Let me know if you have any impediment
+* My job is to make you succeed in this class. Let me know if you have any impediment(s).
 
 ## Lecture
 
 * Cover stuff form TF groups
 * Mention some stuff about agile
-  * It's goal is to make stuff better for users
+  * Agile's goal is to make stuff better for users
   * Make stuff easier for developers
   * Have a continuous feedback loop
   * See this image -> http://electric-cloud.com/wp-content/uploads/use-case-graphic_agile3.png
