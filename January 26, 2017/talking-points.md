@@ -14,6 +14,7 @@
 ## Lecture
 
 * Cover stuff form TF groups
+* Go over `.gitignore`
 * Mention some stuff about agile
   * Agile's goal is to make stuff better for users
   * Make stuff easier for developers
