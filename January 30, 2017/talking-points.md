@@ -1,6 +1,6 @@
 # Talking points
 
-## Beofre Class
+## Before Class
 
 * Plugin back TV
 * Start Youtube live
@@ -11,6 +11,6 @@
 
 ## Lecture
 
-* Cover stuff form TF groups
+* Cover stuff from TF groups
 
 ## End of Class
