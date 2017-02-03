@@ -9,8 +9,8 @@
 
 * User sign up is due
 * Next week will build on user sign up via concepts
-* No class Wednesday February 2nd -- pre for unit 3
-* Unit three will have a trck for `C#` and `JavaScript`
+* No class Wednesday February 22nd -- prep for unit 3
+* Unit three will have a track for `C#` and `JavaScript`
 
 ## Lecture
 
