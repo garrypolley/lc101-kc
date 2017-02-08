@@ -11,7 +11,7 @@
 * Querying the database is all you really need to know for now -- Udacity was basically bonus material for today
 * Worked successfully having never used a database before my first job
 * It's fine to keep thinking ACID is something you are not suppose to do at parties
-* Build a blog is due a week from today
+* Build a blog has moved a day later for class
 
 ## Lecture
 
