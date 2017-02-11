@@ -1,3 +1,3 @@
-# LC101 KC January 12th, 2016
+# LC101 KC February 13th, 2017
 
-WHAT WILL BE COVERED
+We'll cover how to secure an application with user's and passwords.
