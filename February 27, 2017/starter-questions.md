@@ -10,7 +10,7 @@ All questions can have more answers that what is listed here.
 * Anything you like about C# more than Python so far?
 * Anything you like less?
 
-## C#
+## CSharp
 
 * What is the `Main` class for?
   * It is what the C# runtime looks for when executing a program
