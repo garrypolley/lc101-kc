@@ -25,7 +25,7 @@ namespace ConsoleApplication
                 message = "{0} found in the story";
             } else
             {
-                message = "{0} not found";
+                message = "Not found was {0}";
 
             }
             // Always write out the message
