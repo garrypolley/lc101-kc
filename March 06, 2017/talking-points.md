@@ -13,6 +13,7 @@
 * Go over studio -- http://education.launchcode.org/skills-back-end-csharp/studios/counting-characters/
   * Likely build off this answer https://github.com/pick27/csharp-exercises/blob/master/studio32/Program.cs
 * Cover stuff form TF groups
+* Mention that they had a lot thrown at them for the `MVC` framework parts and we will spend the next few weeks getting it all in our heads
 * Start explanation of example-web app
   * Go over structure of the code
   * Mention the built-in User bits -- don't actually do much though
