@@ -6,7 +6,7 @@
 
 ## Start of Class
 
-* Nothing really, just get started for the evening
+*  Mention assignment is due thursday -- the tech jobs console assignment
 
 ## Lecture
 
