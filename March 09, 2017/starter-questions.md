@@ -23,7 +23,6 @@ All questions can have more answers that what is listed here.
   * `Views` can be hot reloaded because they are not compiled
   * `Controllers` need to be recompiled when changes are made, so they cannot be hot reloaded
 
-
 ## General
 
 * Any areas that are proving difficult to grasp?

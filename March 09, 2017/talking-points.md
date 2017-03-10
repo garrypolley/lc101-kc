@@ -6,6 +6,9 @@
 
 ## Start of Class
 
+* Mention coming to class is optional, especially if you feel unsafe in anyway
+* Mention working to see if we can split the class in a better way, finalizing and checking to see if possible
+* Bring up the feedback
 * Mention assignment is due today
 
 ## Lecture
