@@ -9,7 +9,15 @@
 <ul>
     @foreach (KeyValuePair<string, string> cheese in ViewBag.cheeses) {
         <li>
-            <b>@cheese.Key</b> => @cheese.Value
+            <form class="form-inline" method="POST" action="/Cheese/Delete">
+                <b>@cheese.Key</b> => @cheese.Value
+
+                <input name="cheese" value="@cheese.Key" type="hidden" />
+                <button class="btn btn-warning" type="submit">
+                    <span class="glyphicon glyphicon-trash" aria-hidden="true"></span>
+                    Remove
+                </button>
+            </form>
         </li>
     }
 </ul>
