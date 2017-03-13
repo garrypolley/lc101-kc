@@ -11,7 +11,7 @@
 
 ## Lecture
 
-* Go over studio from last time -- http://education.launchcode.org/skills-back-end-csharp/studios/bonjour-asp-net/
+* Go over studio from last time -- http://education.launchcode.org/skills-back-end-csharp/studios/cheese-mvc/
 * Cover stuff form TF groups
 * Cover the example-classes
   * Show the `Main` and what it does
