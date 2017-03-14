@@ -8,7 +8,7 @@ public class Student {
         studentId = rnd.Next();
     }
 
-    int studentId;
+    private int studentId;
 
     public string Name { get; set;}
 
@@ -28,7 +28,7 @@ public class Student {
     }
 
     public static double GenerateGpa() {
-        int randInt = new Random().Next(0, 400);
+        int randInt = rnd.Next(0, 400);
         double gpa = randInt / 100;
 
         return gpa;

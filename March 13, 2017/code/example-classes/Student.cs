@@ -1,6 +1,7 @@
+namespace Fun {
 public class Student {
 
-    string name;
+    private string name;
 
     public string Name
     {
@@ -13,4 +14,5 @@ public class Student {
         return string.Format("{0}", name);
     }
 
+}
 }

@@ -1,4 +1,5 @@
 ﻿using System;
+using Fun;
 
 namespace example_classes
 {

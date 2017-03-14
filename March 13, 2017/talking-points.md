@@ -11,6 +11,7 @@
 
 ## Lecture
 
+* Mention the link does work, be sure to hard refresh your computer browser -- http://education.launchcode.org/skills-back-end-csharp/assignments/techjobs-mvc/
 * Go over studio from last time -- http://education.launchcode.org/skills-back-end-csharp/studios/cheese-mvc/
 * Cover stuff form TF groups
 * Cover the example-classes
