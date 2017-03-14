@@ -12,6 +12,13 @@
 ## Lecture
 
 * Mention the link does work, be sure to hard refresh your computer browser -- http://education.launchcode.org/skills-back-end-csharp/assignments/techjobs-mvc/
+* Go over studio solution -- http://education.launchcode.org/skills-back-end-csharp/studios/cheese-mvc/
+  * First add some cheeses as a reminder
+  * Go about creating the UI -- show a little bootstrap http://getbootstrap.com/css/#buttons
+  * Show the trashcan icon -- `glyphicon glyphicon-trash`
+  * Add the forms -- all of them, use a hidden input
+  * Then mention the posting to the delete route
+  * Create the delete route
 * Go over studio from last time -- http://education.launchcode.org/skills-back-end-csharp/studios/cheese-mvc/
 * Cover stuff form TF groups
 * Cover the example-classes
