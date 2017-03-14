@@ -10,13 +10,10 @@
 
 ## Lecture
 
-* Go over studio solution -- http://education.launchcode.org/skills-back-end-csharp/studios/cheese-mvc/
-  * First add some cheeses as a reminder
-  * Go about creating the UI -- show a little bootstrap http://getbootstrap.com/css/#buttons
-  * Show the trashcan icon -- `glyphicon glyphicon-trash`
-  * Add the forms -- all of them, use a hidden input
-  * Then mention the posting to the delete route
-  * Create the delete route
+* Go over studio solution -- http://education.launchcode.org/skills-back-end-csharp/studios/restaurant-menu/
+  * Create the folder `Restaurant`
+  * Talk over setting up the hierarchy of Menu and Menu Item
+  * Create the two classes Menu and Menu Item
 * Cover stuff form TF groups
 * Show the program sample running, that creates the students
 * Mention how it creates 10 students and prints out information about them
