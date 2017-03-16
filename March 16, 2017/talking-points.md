@@ -7,13 +7,13 @@
 ## Start of Class
 
 * Mention course content will be getting updated soon.
-
-## Lecture
-
 * Go over studio solution -- http://education.launchcode.org/skills-back-end-csharp/studios/restaurant-menu/
   * Create the folder `Restaurant`
   * Talk over setting up the hierarchy of Menu and Menu Item
   * Create the two classes Menu and Menu Item
+
+## Lecture
+
 * Cover stuff form TF groups
 * Show the program sample running, that creates the students
 * Mention how it creates 10 students and prints out information about them
