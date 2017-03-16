@@ -29,5 +29,5 @@ All questions can have more answers that what is listed here.
 ## General
 
 * What's the difference between equality and identity?
-  * Equality checks of values are equal
+  * Equality checks if values are equal
   * Identity checks to see if the objects are the exact same
