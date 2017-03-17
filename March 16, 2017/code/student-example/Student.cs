@@ -7,16 +7,18 @@ namespace student_example {
         public int NumberOfCredits { get; set; }
         public double Gpa { get; set; }
 
-        public Student(string name, int studentId,
-                int numberOfCredits, double gpa) {
+        private Student() {}
+
+        private Student(string name, int studentId,
+                int numberOfCredits, double gpa) : this() {
             Name = name;
             StudentId = studentId;
             NumberOfCredits = numberOfCredits;
             Gpa = gpa;
         }
 
-        public Student(string name, int studentId)
-            : this(name, studentId, 0, 0) {}
+        private Student(string name, int studentId)
+            : this(name, studentId, 0, 0d) {}
 
         public Student(string name)
             : this(name, nextStudentId) {
