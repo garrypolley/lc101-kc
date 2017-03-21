@@ -6,12 +6,14 @@
 
 ## Start of Class
 
+* Entire class, we will be moving spaces in April -- We will give you as much notice as we can on location, time will be the same
 * Mention assignment due Thursday for TechJobs MVC
+* Tom is your instructor for Next Monday
 
 ## Lecture
 
 * Cover stuff form TF groups
-* Talk about `Object` and show the source code: https://github.com/dotnet/corert/blob/master/src/System.Private.CoreLib/src/System/Object.cs#L81-L115
+* Talk about `Object` and show the source code: https://github.com/dotnet`/corert/blob/master/src/System.Private.CoreLib/src/System/Object.cs#L81-L115
 * Go over the view-override first
   * Show the overriding of the `View` method
   * Show how it's set in all the other methods
