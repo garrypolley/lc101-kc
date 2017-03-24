@@ -31,7 +31,6 @@ namespace CheeseMVC.Models
         // GetById
         public static Cheese GetById(string cheeseId)
         {
-
             return cheeses.Single(x => x.CheeseId == cheeseId);
         }
 

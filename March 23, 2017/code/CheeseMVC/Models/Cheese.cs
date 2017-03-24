@@ -10,7 +10,7 @@ namespace CheeseMVC.Models
         public string Name { get; set; }
         public string Description { get; set; }
 
-        public string CheeseId { get; set; }
+        public string CheeseId { get; private set; }
 
         public Cheese()
         {
