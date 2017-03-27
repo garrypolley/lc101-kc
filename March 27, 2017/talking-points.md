@@ -14,6 +14,6 @@
 * Cover stuff from TF groups
 * Review: model binding
 * Walk through the solution to the User Signup studio
-* Show ViewModel-related stuff
+* Show ViewModel-related stuff, including use of Enumeration types
 
 ## End of Class
