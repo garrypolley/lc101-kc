@@ -10,7 +10,7 @@ All questions can have more answers that what is listed here.
   * Allows compile-time checking of properties
   * Makes form validation easier
 * What do you need to do to use ViewModels?
-  * Define a new ViewModel class, typically in a subfolder called ViewModels; the properties of the model will be used to generate the user interface and pass data between the Controller and the View
+  * Define a new class for your view model, typically in a subfolder called ViewModels; the properties of the model will be used to generate the user interface and pass data between the Controller and the View
   * Pass in the variable representing your ViewModel to the call to View() from the Controller
   * Declare with the `@model` syntax the type of your model at the top of the View template 
   * You can also use an `@using` statement  at the top of the View template to make the model class available without having to use the full-qualified name of the class
@@ -26,7 +26,7 @@ All questions can have more answers that what is listed here.
 * What are some advantages of using Enumeration types?
   * Enumeration types define the valid values for a variable
   * Code completion tools can display the valid values
-* When would use an Enumeration type?
+* When would you use an Enumeration type?
   * When a variable or property logically can only take a few different values.
   * Examples: day of the week, type of cheese
   * Counter examples: temperature (too many values), a person's age (too many values)
