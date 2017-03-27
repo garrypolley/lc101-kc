@@ -27,6 +27,7 @@ All questions can have more answers that what is listed here.
   * Enumeration types define the valid values for a variable
   * Code completion tools can display the valid values
 * When would you use an Enumeration type?
-  * When a variable or property logically can only take a few different values.
+  * When a variable or property logically can only take values from a fixed set of values.
+  * Usually an enumeration corresponds to categories
   * Examples: day of the week, type of cheese
-  * Counter examples: temperature (too many values), a person's age (too many values)
+  * Counter examples: temperature (depending on the application: potentially unbounded, can have fractional values), name (not a fixed set of values)
