@@ -24,6 +24,6 @@ All questions can have more answers than those listed here.
   * Do not handle exceptions representing a state from which your program cannot recover, e.g., failing to connect to a database containing data that your program requires
 * What happens when you fail to catch an exception?
   * The exception will continue to propagate until it is caught
-  * If the exception is not caught, the runtime will emit an error and stop the program
+  * If the exception is not caught, the runtime will emit a message and stop the program
 * What can you do to avoid some exceptions?
   * Validate data prior to using it
