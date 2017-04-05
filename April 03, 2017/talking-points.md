@@ -21,6 +21,7 @@
   * Ask if there are any questions
   * Show the sorting happening
   * Show the `abstract` base Shape class that's used for easy printing
+* Cover learning chart: https://github.com/kamranahmedse/developer-roadmap
 * That's it, get to it on the assignments
 
 ## End of Class
