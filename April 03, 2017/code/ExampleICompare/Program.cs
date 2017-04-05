@@ -30,7 +30,7 @@ namespace ExampleICompare
             PrintShapes(shapes);
         }
 
-        static void PrintShapes(List<IArea> shapes)
+        static void PrintShapes(IEnumerable<IArea> shapes)
         {
             foreach (var shape in shapes)
             {
