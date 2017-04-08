@@ -7,6 +7,7 @@
 ## Start of Class
 
 * There is another assignment, it'll use the Model component and EntityFramework
+* That assignment will be getting the studios done and you will work on it in class
 
 ## Lecture
 

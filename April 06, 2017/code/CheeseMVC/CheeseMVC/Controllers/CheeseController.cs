@@ -28,7 +28,7 @@ namespace CheeseMVC.Controllers
 
         public IActionResult Add()
         {
-            AddCheeseViewModel addCheeseViewModel = 
+            AddCheeseViewModel addCheeseViewModel =
                 new AddCheeseViewModel(context.Categories.ToList());
             return View(addCheeseViewModel);
         }
@@ -39,7 +39,7 @@ namespace CheeseMVC.Controllers
             if (ModelState.IsValid)
             {
 
-                CheeseCategory newCheeseCategory = 
+                CheeseCategory newCheeseCategory =
                     context.Categories.Single(c => c.ID == addCheeseViewModel.CategoryID);
 
                 // Add the new cheese to my existing cheeses
@@ -67,7 +67,7 @@ namespace CheeseMVC.Controllers
         [HttpPost]
         public IActionResult Remove(int[] cheeseIds)
         {
-            
+
             foreach (int cheeseId in cheeseIds)
             {
                 Cheese theCheese = context.Cheeses.Single(c => c.ID == cheeseId);
@@ -75,10 +75,10 @@ namespace CheeseMVC.Controllers
             }
 
             context.SaveChanges();
-            
+
             return Redirect("/");
         }
-        
+
         public IActionResult Category(int id)
         {
             if (id == 0)
@@ -90,7 +90,7 @@ namespace CheeseMVC.Controllers
                 .Include(cat => cat.Cheeses)
                 .Single(cat => cat.ID == id);
 
-            // To query for the cheeses from the other 
+            // To query for the cheeses from the other
             // side of the relationship:
 
             /*
