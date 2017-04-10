@@ -1,8 +1,7 @@
 # Talking points
 
-## Beofre Class
+## Before Class
 
-* Plugin back TV
 * Start Youtube live
 
 ## Start of Class
