@@ -16,7 +16,7 @@ All questions can have more answers that what is listed here.
 
 ## Code Specific
 
-* How do we go about setting up the one-to-one relationship?
+* How do we go about setting up the many-to-many relationship?
   * We create three models
   * We link them inside a special method in our `dbContext` class
 * What do we need to do each time we change our models?
