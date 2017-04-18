@@ -9,5 +9,10 @@ namespace UserAddress.Models
         public string EmailAddress { get; set; }
 
         public ICollection<AddressUser> AddressUsers { get; set; }
+
+        public User DoSomething()
+        {
+            return this;
+        }
     }
 }

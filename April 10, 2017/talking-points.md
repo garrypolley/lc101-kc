@@ -16,6 +16,8 @@
 * Go over Many-To-Many in detail with this image: https://i.ytimg.com/vi/P_nhBKs25DQ/hqdefault.jpg
   * Video that may help: https://www.youtube.com/watch?v=P_nhBKs25DQ
 * Ask if anyone hasn't gotten the relationships in place for Cheese and Category
+* Cover how the migrations work, and why they are needed
+  * Also cover why not smash them all the time
 * Show many-to-many with people and addresses
 * http://education.launchcode.org/skills-back-end-csharp/studios/cheese-mvc-persistent/many-to-many/
 
